@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小天天的茶舍</title>
+  
+  <subtitle>大家好， 我是小天天</subtitle>
+  <link href="https://szxtiantian.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://szxtiantian.github.io/"/>
+  <updated>2022-10-26T17:38:11.645Z</updated>
+  <id>https://szxtiantian.github.io/</id>
+  
+  <author>
+    <name>TimTim</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://szxtiantian.github.io/2022/10/26/hello-world/"/>
+    <id>https://szxtiantian.github.io/2022/10/26/hello-world/</id>
+    <published>2022-10-26T15:55:13.191Z</published>
+    <updated>2022-10-26T17:38:11.645Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
