@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://szxtiantian.github.io/2022/10/27/Java%E9%9B%86%E5%90%88%E7%B1%BB%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/</loc>
+    
+    <lastmod>2022-10-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://szxtiantian.github.io/2022/10/26/hello-world/</loc>
     
     <lastmod>2022-10-26</lastmod>
@@ -13,12 +22,26 @@
 
   <url>
     <loc>https://szxtiantian.github.io/</loc>
-    <lastmod>2022-10-26</lastmod>
+    <lastmod>2022-10-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>https://szxtiantian.github.io/tags/Java/</loc>
+    <lastmod>2022-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://szxtiantian.github.io/categories/Programming/</loc>
+    <lastmod>2022-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
